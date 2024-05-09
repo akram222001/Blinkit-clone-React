@@ -1,0 +1,57 @@
+.slick-next:before, .slick-prev:before 
+{
+    font-size: 25px;
+    line-height: 2;
+    opacity: .75;
+    color: #fff;
+    background-color: #000 !important;
+    border-radius: 50%;
+}
+
+.slick-next
+{
+    margin-right: 40px !important;
+}
+
+.ProductsCard .CartBtn
+{
+    color: rgb(12, 131, 31) !important;
+    border: 0.5px solid rgb(12, 131, 31) !important;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.slick-slide 
+{
+    max-width: 210px !important;
+}
+
+.MuiCard-root
+{
+    box-shadow: none !important;
+    border: 0.5px solid rgb(221, 221, 221);
+    background-color: white;
+}
+
+
+.MuiCard-root:hover
+{
+    border: 0.5px solid rgb(12, 131, 31) !important;
+    transition-duration: 0.3s !important;
+}
+
+.slide
+{
+    height: 100%;
+    padding: 10px;
+}
+
+.slide-track
+{
+    display: flex !important;
+}
+
+.slick-slide
+{
+    height: inherit !important
+}

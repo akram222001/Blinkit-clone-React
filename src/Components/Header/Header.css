@@ -1,0 +1,77 @@
+.Logo
+{
+    max-width: 200px;
+    max-height: 90px;
+    border-right: 1px solid rgb(238, 238, 238);
+    padding-right: 30px;
+    margin: 0;
+}
+
+.NavBtn
+{
+    color: #fff !important;
+    background-color: rgb(12, 131, 31) !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    padding: 12px 12px !important;
+    text-transform:none !important;
+    border-radius: 8px !important;
+}
+
+.Del
+{
+    font-size: 18px !important;;
+    color: rgb(0, 0, 0) !important;;
+    font-weight: 700 !important;;
+    margin-bottom: 6px !important;;
+}
+
+.Location
+{
+    font-size: 14px ;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    width: auto;
+    max-width: 210px;
+    text-overflow: ellipsis;
+}
+
+@media(max-width: 1020px)
+{
+    .Navbar
+    {
+        display: block !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}
+
+@media(max-width: 1020px)
+{
+    .Navbar .Logo, .LoginBtn, .NavBtn
+    {
+        display: none !important;
+    }
+}
+
+@media(max-width: 1020px)
+{
+    .Navbar .DelPlace
+    {
+        margin: 20px 0 0 10px !important;
+    }
+}
+
+
+@media(max-width: 1020px)
+{
+    .Navbar .SearchBar
+    {
+        margin: 0 0 10px 0 !important;
+    }
+}
+ 
