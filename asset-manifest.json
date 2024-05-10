@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akram222001/Blinkit-clone-React/static/css/main.b8a46bcf.css",
+    "main.js": "/akram222001/Blinkit-clone-React/static/js/main.90be8f77.js",
+    "index.html": "/akram222001/Blinkit-clone-React/index.html",
+    "main.b8a46bcf.css.map": "/akram222001/Blinkit-clone-React/static/css/main.b8a46bcf.css.map",
+    "main.90be8f77.js.map": "/akram222001/Blinkit-clone-React/static/js/main.90be8f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a46bcf.css",
+    "static/js/main.90be8f77.js"
+  ]
+}
